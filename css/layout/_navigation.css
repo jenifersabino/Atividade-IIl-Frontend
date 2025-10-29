@@ -10,7 +10,7 @@ nav ul {
     display: none; /* Esconde a lista por padrão (mobile) */
 }
 
-/* Simulação de Menu Aberto (adicione esta classe via JavaScript) */
+/* Simulação de Menu Aberto */
 nav.is-open ul {
     display: flex;
     flex-direction: column;
